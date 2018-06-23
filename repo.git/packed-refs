@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled 
+dd7b7210b5621b5b14c0380dfb9ed708d78118f9 refs/heads/master
+bb7d3f5e4dc9c850d58dcb7b4d7115aa9292ffad refs/heads/meat-master
